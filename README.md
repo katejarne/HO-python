@@ -1,6 +1,6 @@
 # Hands on: Python, scipy, numpy, matplotlib
 
-1. Utilizando solo python elegir alguno de los siguientes problemas y solucionarlo ( no use numpy). El archivo  ejemplo.py contiene la solución al primer ejercicio. Puede utilizarlo para verificar su solución o como ejemplo para resolver los demás. Los problemas fueron extraídos de https://projecteuler.net/archives 
+ Utilizando solo python elegir alguno de los siguientes problemas y solucionarlo ( no use numpy). El archivo  ejemplo.py contiene la solución al primer ejercicio. Puede utilizarlo para verificar su solución o como ejemplo para resolver los demás. Los problemas fueron extraídos de https://projecteuler.net/archives 
 
   1. Si hacemos una lista de todos los números naturales debajo de 10 que sean múltiplos de 3 o 5 obtendríamos 3, 5, 6 y 9. La suma de los múltiplos es 23. Encuentre la suma de todos los múltiplos de 3 y 5 debajo de 1000.
 
